@@ -1,0 +1,4 @@
+2025-10-21 10:06:17,042 - remodelacao_regioes - INFO - Testando a função load_exportation_data...
+2025-10-21 10:06:17,047 - remodelacao_regioes - INFO - Arquivo 'exportation.csv' carregado com sucesso. 1105 registros encontrados.
+2025-10-21 10:06:17,048 - remodelacao_regioes - INFO - Primeiras 5 linhas do DataFrame:
+2025-10-21 10:06:17,052 - remodelacao_regioes - INFO - Colunas do DataFrame: ['ID_Aviario;ID_Nucleo;Nome_Proprietario;Nome_Produtor;Extensionista;Latitude;Longitude;Municipio;Microrregiao;Area']

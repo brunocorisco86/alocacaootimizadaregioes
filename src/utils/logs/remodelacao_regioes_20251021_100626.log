@@ -1,0 +1,9 @@
+2025-10-21 10:06:26,632 - remodelacao_regioes - INFO - Testando a classe ClusteringModel...
+2025-10-21 10:06:26,633 - remodelacao_regioes - INFO - ClusteringModel inicializado com meta de aviários por extensionista: 3-5.
+2025-10-21 10:06:26,634 - remodelacao_regioes - INFO - Calculado número ideal de extensionistas: 3 para 12 aviários.
+2025-10-21 10:06:26,658 - remodelacao_regioes - INFO - Clustering inicial com 3 clusters realizado.
+2025-10-21 10:06:26,662 - remodelacao_regioes - INFO - Integralidade dos núcleos garantida.
+2025-10-21 10:06:26,663 - remodelacao_regioes - INFO - Priorização de fechamento de microrregiões aplicada.
+2025-10-21 10:06:26,663 - remodelacao_regioes - WARNING - Balanceamento da carga de demanda (Restrição 6) ainda não implementado.
+2025-10-21 10:06:26,665 - remodelacao_regioes - INFO - Alocação finalizada com 'Extensionista_Proposto'.
+2025-10-21 10:06:26,665 - remodelacao_regioes - INFO - DataFrame após otimização:

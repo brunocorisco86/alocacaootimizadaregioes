@@ -1,0 +1,10 @@
+2025-10-21 10:53:19,716 - remodelacao_regioes - INFO - Testando a classe GeoProcessor com dados reais e regras de imutabilidade dinâmicas...
+2025-10-21 10:53:19,721 - remodelacao_regioes - INFO - Arquivo 'exportation.csv' carregado com sucesso. 1105 registros encontrados.
+2025-10-21 10:53:19,724 - remodelacao_regioes - INFO - Arquivo 'PRODUTORES_IMUTAVEIS.csv' carregado com sucesso. 1 registros encontrados na coluna 'Nome_Produtor'.
+2025-10-21 10:53:19,724 - remodelacao_regioes - INFO - Carregados 1 produtores imutáveis do arquivo PRODUTORES_IMUTAVEIS.csv.
+2025-10-21 10:53:19,725 - remodelacao_regioes - INFO - Arquivo 'EXTENSIONISTAS_IMUTAVEIS.csv' carregado com sucesso. 1 registros encontrados na coluna 'Extensionista_Atual'.
+2025-10-21 10:53:19,725 - remodelacao_regioes - INFO - Carregados 1 extensionistas imutáveis do arquivo EXTENSIONISTAS_IMUTAVEIS.csv.
+2025-10-21 10:53:19,725 - remodelacao_regioes - INFO - GeoProcessor inicializado com 2 regras de imutabilidade.
+2025-10-21 10:53:19,726 - remodelacao_regioes - INFO - Aplicada restrição de imutabilidade. 63 aviários marcados como imutáveis.
+2025-10-21 10:53:19,726 - remodelacao_regioes - INFO - DataFrame após aplicar imutabilidade (primeiras 5 linhas):
+2025-10-21 10:53:19,731 - remodelacao_regioes - INFO - DataFrame processado exportado para: /home/brunoconter/Code/Git/RemodelacaoRegioes/exports/geo_processor_output.csv

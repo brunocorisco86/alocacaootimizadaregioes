@@ -1,0 +1,49 @@
+2025-10-21 11:16:42,990 - remodelacao_regioes - INFO - Iniciando o processo de Remodelação e Otimização Geográfica de Extensionistas...
+2025-10-21 11:16:42,994 - remodelacao_regioes - INFO - Arquivo 'exportation.csv' carregado com sucesso. 1105 registros encontrados.
+2025-10-21 11:16:42,997 - remodelacao_regioes - INFO - Dados carregados com sucesso. Total de 1105 registros.
+2025-10-21 11:16:42,998 - remodelacao_regioes - INFO - Arquivo 'PRODUTORES_IMUTAVEIS.csv' carregado com sucesso. 2 registros encontrados na coluna 'Nome_Produtor'.
+2025-10-21 11:16:42,998 - remodelacao_regioes - INFO - Carregados 2 produtores imutáveis do arquivo PRODUTORES_IMUTAVEIS.csv.
+2025-10-21 11:16:42,998 - remodelacao_regioes - INFO - Arquivo 'EXTENSIONISTAS_IMUTAVEIS.csv' carregado com sucesso. 1 registros encontrados na coluna 'Extensionista_Atual'.
+2025-10-21 11:16:42,999 - remodelacao_regioes - INFO - Carregados 1 extensionistas imutáveis do arquivo EXTENSIONISTAS_IMUTAVEIS.csv.
+2025-10-21 11:16:42,999 - remodelacao_regioes - INFO - GeoProcessor inicializado com 1 regras de imutabilidade.
+2025-10-21 11:16:43,000 - remodelacao_regioes - INFO - Aplicada restrição de imutabilidade. 20 aviários marcados como imutáveis.
+2025-10-21 11:16:43,000 - remodelacao_regioes - INFO - GeoProcessor aplicado. 20 aviários marcados como imutáveis.
+2025-10-21 11:16:43,001 - remodelacao_regioes - INFO - ClusteringModel inicializado com meta de aviários por extensionista: 40-43. Desejado: 40.
+2025-10-21 11:16:43,002 - remodelacao_regioes - INFO - Calculado número ideal de extensionistas: 28 para 1105 aviários, usando média desejada de 40.
+2025-10-21 11:16:43,053 - remodelacao_regioes - INFO - Clustering inicial com 28 clusters realizado.
+2025-10-21 11:16:43,203 - remodelacao_regioes - INFO - Integralidade dos núcleos garantida.
+2025-10-21 11:16:43,248 - remodelacao_regioes - INFO - Priorização de fechamento de microrregiões aplicada.
+2025-10-21 11:16:43,248 - remodelacao_regioes - WARNING - Balanceamento da carga de demanda (Restrição 6) ainda não implementado.
+2025-10-21 11:16:43,248 - remodelacao_regioes - WARNING - Balanceamento da carga de demanda (Restrição 6) ainda não implementado.
+2025-10-21 11:16:43,249 - remodelacao_regioes - INFO - Cluster 13 mapeado para extensionista atual: ANETE RORIG
+2025-10-21 11:16:43,249 - remodelacao_regioes - INFO - Cluster 8 mapeado para extensionista atual: DEBORA SILVA ALBERTON
+2025-10-21 11:16:43,250 - remodelacao_regioes - INFO - Cluster 24 mapeado para extensionista atual: INAIARA CALCAGNO RODRIGUES BUTTINI
+2025-10-21 11:16:43,251 - remodelacao_regioes - INFO - Cluster 17 mapeado para extensionista atual: MARLI HETKOWSKI
+2025-10-21 11:16:43,251 - remodelacao_regioes - INFO - Cluster 18 mapeado para extensionista atual: ALTAIR AUGUSTO WELKE
+2025-10-21 11:16:43,251 - remodelacao_regioes - INFO - Cluster 14 mapeado para extensionista atual: ARION SILVA DE RAMOS
+2025-10-21 11:16:43,252 - remodelacao_regioes - INFO - Cluster 1 mapeado para extensionista atual: RODOLFO PICCINI WENDT
+2025-10-21 11:16:43,252 - remodelacao_regioes - INFO - Cluster 7 mapeado para extensionista atual: JESSIANE SAUER BALDO
+2025-10-21 11:16:43,253 - remodelacao_regioes - INFO - Cluster 12 mapeado para extensionista atual: EDINAN HAGDON CIRILO
+2025-10-21 11:16:43,253 - remodelacao_regioes - INFO - Cluster 23 mapeado para extensionista atual: RENAN BACARINI
+2025-10-21 11:16:43,254 - remodelacao_regioes - INFO - Cluster 2 mapeado para extensionista atual: LETICIA FERNANDES CRISPIM COSTA
+2025-10-21 11:16:43,255 - remodelacao_regioes - INFO - Cluster 5 mapeado para extensionista atual: EVANDRO MARTINS SCHAFFER
+2025-10-21 11:16:43,255 - remodelacao_regioes - INFO - Cluster 25 mapeado para extensionista atual: RODRIGO ALVES PENTEADO
+2025-10-21 11:16:43,255 - remodelacao_regioes - INFO - Cluster 16 mapeado para extensionista atual: ANA LUNKES
+2025-10-21 11:16:43,256 - remodelacao_regioes - INFO - Cluster 15 mapeado para extensionista atual: MARIA LUIZA DOS REIS PEREIRA
+2025-10-21 11:16:43,256 - remodelacao_regioes - INFO - Cluster 3 mapeado para extensionista atual: ISABELA PANDINI
+2025-10-21 11:16:43,258 - remodelacao_regioes - INFO - Cluster 4 mapeado para extensionista atual: BRUNO ALVES DA LUZ
+2025-10-21 11:16:43,258 - remodelacao_regioes - INFO - Cluster 20 mapeado para extensionista atual: CARLOS EDUARDO OLIVEIRA SESTARI
+2025-10-21 11:16:43,259 - remodelacao_regioes - INFO - Cluster 0 mapeado para extensionista atual restante: ALISSON FERNANDO ZSCHORNACK
+2025-10-21 11:16:43,259 - remodelacao_regioes - INFO - Cluster 6 mapeado para extensionista atual restante: MURILO CAVICCHIOLI
+2025-10-21 11:16:43,259 - remodelacao_regioes - INFO - Cluster 9 mapeado para nova região: Região A
+2025-10-21 11:16:43,259 - remodelacao_regioes - INFO - Cluster 10 mapeado para nova região: Região B
+2025-10-21 11:16:43,259 - remodelacao_regioes - INFO - Cluster 11 mapeado para nova região: Região C
+2025-10-21 11:16:43,259 - remodelacao_regioes - INFO - Cluster 19 mapeado para nova região: Região D
+2025-10-21 11:16:43,259 - remodelacao_regioes - INFO - Cluster 21 mapeado para nova região: Região E
+2025-10-21 11:16:43,260 - remodelacao_regioes - INFO - Cluster 22 mapeado para nova região: Região F
+2025-10-21 11:16:43,260 - remodelacao_regioes - INFO - Cluster 26 mapeado para nova região: Região G
+2025-10-21 11:16:43,260 - remodelacao_regioes - INFO - Cluster 27 mapeado para nova região: Região H
+2025-10-21 11:16:43,261 - remodelacao_regioes - INFO - Alocação finalizada com 'Extensionista_Proposto'.
+2025-10-21 11:16:43,261 - remodelacao_regioes - INFO - ClusteringModel aplicado. Alocação otimizada gerada.
+2025-10-21 11:16:43,261 - remodelacao_regioes - INFO - Primeiras 5 linhas do DataFrame otimizado:
+2025-10-21 11:16:43,271 - remodelacao_regioes - INFO - Alocação otimizada final exportada para: /home/brunoconter/Code/Git/RemodelacaoRegioes/exports/final_optimized_allocation.csv

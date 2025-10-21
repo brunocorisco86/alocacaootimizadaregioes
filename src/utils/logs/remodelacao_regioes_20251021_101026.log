@@ -1,0 +1,5 @@
+2025-10-21 10:10:26,945 - remodelacao_regioes - INFO - Testando a classe GeoProcessor com dados reais...
+2025-10-21 10:10:26,950 - remodelacao_regioes - INFO - Arquivo 'exportation.csv' carregado com sucesso. 1105 registros encontrados.
+2025-10-21 10:10:26,952 - remodelacao_regioes - INFO - GeoProcessor inicializado.
+2025-10-21 10:10:26,953 - remodelacao_regioes - INFO - Aplicada restrição de imutabilidade. 0 aviários marcados como imutáveis.
+2025-10-21 10:10:26,954 - remodelacao_regioes - INFO - DataFrame após aplicar imutabilidade (primeiras 5 linhas):

@@ -1,0 +1,4 @@
+2025-10-21 10:03:37,404 - remodelacao_regioes - INFO - Testando a classe GeoProcessor...
+2025-10-21 10:03:37,405 - remodelacao_regioes - INFO - GeoProcessor inicializado.
+2025-10-21 10:03:37,407 - remodelacao_regioes - INFO - Aplicada restrição de imutabilidade. 3 aviários marcados como imutáveis.
+2025-10-21 10:03:37,407 - remodelacao_regioes - INFO - DataFrame após aplicar imutabilidade:

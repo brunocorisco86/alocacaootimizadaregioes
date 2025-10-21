@@ -1,0 +1,12 @@
+2025-10-21 10:16:14,861 - remodelacao_regioes - INFO - Testando a classe ClusteringModel com dados reais...
+2025-10-21 10:16:14,927 - remodelacao_regioes - INFO - Arquivo 'exportation.csv' carregado com sucesso. 1105 registros encontrados.
+2025-10-21 10:16:14,930 - remodelacao_regioes - INFO - GeoProcessor inicializado com 2 regras de imutabilidade.
+2025-10-21 10:16:14,931 - remodelacao_regioes - INFO - Aplicada restrição de imutabilidade. 63 aviários marcados como imutáveis.
+2025-10-21 10:16:14,931 - remodelacao_regioes - INFO - ClusteringModel inicializado com meta de aviários por extensionista: 40-43.
+2025-10-21 10:16:14,933 - remodelacao_regioes - INFO - Calculado número ideal de extensionistas: 27 para 1105 aviários.
+2025-10-21 10:16:14,976 - remodelacao_regioes - INFO - Clustering inicial com 27 clusters realizado.
+2025-10-21 10:16:15,116 - remodelacao_regioes - INFO - Integralidade dos núcleos garantida.
+2025-10-21 10:16:15,161 - remodelacao_regioes - INFO - Priorização de fechamento de microrregiões aplicada.
+2025-10-21 10:16:15,162 - remodelacao_regioes - WARNING - Balanceamento da carga de demanda (Restrição 6) ainda não implementado.
+2025-10-21 10:16:15,163 - remodelacao_regioes - INFO - Alocação finalizada com 'Extensionista_Proposto'.
+2025-10-21 10:16:15,163 - remodelacao_regioes - INFO - DataFrame após otimização (primeiras 5 linhas):
