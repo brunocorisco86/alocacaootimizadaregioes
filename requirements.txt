@@ -1,0 +1,25 @@
+# requirements.txt
+
+# Modelagem de Otimização e Redistribuição Geográfica de Extensionistas
+
+# Projeto C.Vale - Avicultura
+
+# 1. Análise de Dados e Otimização
+
+pandas # Manipulação e Estruturação de dados tabulares (CSV).scikit-learn # Algoritmos de Clustering Restrito (KMeans, Spectral).scipy # Cálculos científicos, distâncias e otimização.networkx # Modelagem de grafos para garantir a Restrição de Continuidade Geográfica (CRÍTICA).
+
+# 2. Geoprocessamento e Visualização Geoespacial
+
+geopandas # Análise de dados vetoriais, GeoDataFrames e aplicação de restrições espaciais.shapely # Manipulação de geometrias (pontos, polígonos).folium # Criação de Mapas Interativos (HTML).
+
+# 3. Plataforma de Entregáveis
+
+streamlit # Criação do Dashboard Interativo 'Antes e Depois'.simplekml # Exportação mandatória em formato KML para Google Earth Pro.
+
+# 4. Documentação e Qualidade de Código (Adicionado)
+
+sphinx # Geração de documentação técnica a partir de docstrings e notebooks.myst-parser # Permite o uso de Markdown (além de reStructuredText) no Sphinx.sphinx-rtd-theme # Tema padrão 'Read The Docs' para documentação.
+
+# 5. Desenvolvimento e Visualização de Apoio
+
+jupyter # Ambiente para prototipagem do modelo e análises exploratórias.matplotlib # Visualização de apoio e validação do modelo.
